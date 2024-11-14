@@ -1,0 +1,40 @@
+{
+    "birds": [
+        {
+            "type": "red_bird"
+        },
+        {
+            "type": "blue_bird"
+        },
+        {
+            "type": "yellow_bird"
+        },
+        {
+            "type": "black_bird"
+        },
+        {
+            "type": "white_bird"
+        },
+        {
+            "type": "big_red_bird"
+        }
+    ],
+    "pigs": [
+        {
+            "type": "normal_pig",
+            "x": 800,
+            "y": 200
+        },
+        {
+            "type": "normal_pig",
+            "x": 900,
+            "y": 250
+        },
+        {
+            "type": "normal_pig",
+            "x": 1000,
+            "y": 200
+        }
+    ],
+    "blocks": []
+}
